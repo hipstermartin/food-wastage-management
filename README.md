@@ -37,6 +37,6 @@ To use the Food Wastage Management application, follow these steps:
 4. Run the application.
 5. Once the application is running, users can access the system through a web browser using the provided URL.
 
-Conclusion
+## Conclusion
 
 Our Java-based Food Wastage Management application is an innovative solution to the problem of food wastage. By streamlining the collection and distribution of excess food, we can reduce waste while helping those in need. With real-time tracking and customizable settings, this application provides a comprehensive solution for organizations looking to make a positive impact on the community.
